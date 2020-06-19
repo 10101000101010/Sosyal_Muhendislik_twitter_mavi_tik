@@ -4,11 +4,11 @@ Sosyal Muhendislik ile Twitter Hacking
 
 <ul>
   <li>
-    <a href="haber"> Sahte Haber</a>
+    <a href="#haber"> Sahte Haber</a>
   </li>
   
   <li>
-    <a href="form"> Sahte Twitter Form
+    <a href="#form"> Sahte Twitter Form
     </a>
   </li>
     
