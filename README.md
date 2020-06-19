@@ -1,14 +1,16 @@
 <h1>
 Sosyal Muhendislik ile Twitter Hacking
 </h1>
-
+<h3>
+Adimlar:  
+</h3> 
 <ul>
   <li>
-    <a href="#haber"> Sahte Haber</a>
+    <a href="#haber"> Sahte Haber Olusturma</a>
   </li>
   
   <li>
-    <a href="#form"> Sahte Twitter Form
+    <a href="#form"> Sahte Twitter Formu Olusturma
     </a>
   </li>
     
